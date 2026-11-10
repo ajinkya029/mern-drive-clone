@@ -106,7 +106,7 @@ mern-drive-clone/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mern-drive-clone.git
+git clone https://github.com/ajinkya029/mern-drive-clone.git
 ```
 
 ### 2. Navigate to the project directory
